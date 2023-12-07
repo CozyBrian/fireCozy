@@ -1,0 +1,17 @@
+{
+  "name": "firecozy",
+  "description": "",
+  "private": true,
+  "version": "0.0.1",
+  "main": "index.js",
+  "workspaces": [
+    "base",
+    "eslint-config-base"
+  ],
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "dependencies": {
+    "prettier": "^3.1.0"
+  }
+}

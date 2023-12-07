@@ -1,0 +1,6 @@
+{
+  "extends": ["base"],
+  "parserOptions": {
+    "project": "./base/tsconfig.json"
+  }
+}

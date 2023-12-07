@@ -1,0 +1,12 @@
+{
+  "name": "firecozy",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "eslint-config-base": "*",
+    "typescript": "^5.0.0"
+  }
+}
